@@ -91,7 +91,7 @@ ${data.contributors}
 \`\`\`${data.tests}\`\`\``
 
   readme += `
-## questions // contact 
+## questions
 
 check out my github https://github.com/${data.username}/ \n
 feel free to email me at ${data.email}
